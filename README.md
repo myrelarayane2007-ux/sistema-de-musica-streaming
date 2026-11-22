@@ -1,4 +1,4 @@
-# tentativa1
+# Sistema de Música Streaming
 import mysql.connector
 
 def conectar():
