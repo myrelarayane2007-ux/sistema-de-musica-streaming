@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # tentativa1
+=======
+# sistema-de-musica-streaming
+>>>>>>> 56739799117d2228c6c952bc99ad1708c525ace3
 import mysql.connector
 
 def conectar():
@@ -657,3 +661,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+<<<<<<< HEAD
+=======
+<head>
+  <meta charset="UTF-8" />
+  <title>Sistema de Música Streaming</title>
+</head>
+>>>>>>> 56739799117d2228c6c952bc99ad1708c525ace3
