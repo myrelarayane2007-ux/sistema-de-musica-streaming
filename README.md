@@ -1,4 +1,3 @@
-# tentativa1
 import mysql.connector
 
 def conectar():
