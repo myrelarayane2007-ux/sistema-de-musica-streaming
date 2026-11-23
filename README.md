@@ -1,4 +1,4 @@
-# Sistema de Música Streaming
+# sistema-de-musica-streaming
 import mysql.connector
 
 def conectar():
