@@ -657,3 +657,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+<head>
+  <meta charset="UTF-8" />
+  <title>Sistema de Música Streaming</title>
+</head>
