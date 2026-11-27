@@ -1,1 +1,11 @@
+cat << 'EOF' > requirements.txt
 mysql-connector-python
+EOF
+
+cat << 'EOF' > .gitignore
+__pycache__/
+*.py[cod]
+*.env
+.vscode/
+.idea/
+EOF
